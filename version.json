@@ -1,7 +1,7 @@
 {
-  "version": "20261026.1751",
-  "url": "https://raw.githubusercontent.com/kill92/budget-updates/main/bundle-20261026.1751.zip",
-  "sha256": "54ff3896addc7839a7862b4d2391c906fd2144d896932eb3bbe431dbc4a80aa5",
-  "sig": "uJ53OoJHQVeztp5HFukt+YRj2KjssXCiVwNmGZ9FOkqEz9zGeu5RzbQQJy5ImcwYrfEON4OpP6/3Xq0QCJj8dQ==",
-  "notes": "בדיקה ראשונה"
+  "version": "20261026.1759",
+  "url": "https://raw.githubusercontent.com/kill92/budget-updates/main/bundle-20261026.1759.zip",
+  "sha256": "316d40ed87401da601eb2b86f1e9680daeac39b3f6566918a69e170e6815c64d",
+  "sig": "LPT4Ox5hX0/HVYv+GmjjIBW7E8JUpSX+ziM37EXYtglk7PBr3F2BRPfxTire36MM472pb3CxmZP8+nrRQst9Vg==",
+  "notes": "בדיקת עדכון אוטומטי"
 }
