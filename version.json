@@ -1,7 +1,7 @@
 {
-  "version": "20261026.1759",
-  "url": "https://raw.githubusercontent.com/kill92/budget-updates/main/bundle-20261026.1759.zip",
-  "sha256": "316d40ed87401da601eb2b86f1e9680daeac39b3f6566918a69e170e6815c64d",
-  "sig": "LPT4Ox5hX0/HVYv+GmjjIBW7E8JUpSX+ziM37EXYtglk7PBr3F2BRPfxTire36MM472pb3CxmZP8+nrRQst9Vg==",
-  "notes": "בדיקת עדכון אוטומטי"
+  "version": "20261026.1815",
+  "url": "https://raw.githubusercontent.com/kill92/budget-updates/main/bundle-20261026.1815.zip",
+  "sha256": "8bb65edaac9775990e97f7a7f1116cae819b2d3135179fcbc9f53c5c35dd07ca",
+  "sig": "1+JAeKMEdf9bdqS7jelPOh4nAeVlxXrCP8nnyH4g3lSw4wM3qdIcXenziNPNMBfax0OxLZhek1Znjq/5z9dCjw==",
+  "notes": "באנר עדכון בדף הראשי"
 }
