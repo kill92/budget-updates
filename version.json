@@ -1,7 +1,7 @@
 {
-  "version": "20261028.1653",
-  "url": "https://raw.githubusercontent.com/kill92/budget-updates/main/bundle-20261028.1653.zip",
-  "sha256": "5d485fa0c1740827e439cf37713971c0f4f3e2e00f3a83ca3dbf09a399761169",
-  "sig": "YsBb9rSA9GgyktwOBdiDdQwlku/NaN2WZFlCaa+M56OpjMufVt3t201D63VEYX+m76p9L1ALGXhl0Xp0KVfaPQ==",
-  "notes": "חסכונות, תקציב לפי קטגוריה, מחיקת קטגוריות, תיקון התחברות"
+  "version": "20261028.1821",
+  "url": "https://raw.githubusercontent.com/kill92/budget-updates/main/bundle-20261028.1821.zip",
+  "sha256": "690456b1d946c793d6090a3e8b270d20fc76d9038454e429bc268e6d71658fe0",
+  "sig": "fWrmvI5EFrgOb/6HAW7vsd0JlYMFhduXtTKkgI4SjhUl27YTqMQGnNQKEiVAA8tqtKPEI8mhAzwsHW5DnnX67A==",
+  "notes": "גיבוי יומי ושחזור לפי תאריך, כרטיסי אשראי"
 }
