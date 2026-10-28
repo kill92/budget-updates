@@ -1,7 +1,7 @@
 {
-  "version": "20261026.1815",
-  "url": "https://raw.githubusercontent.com/kill92/budget-updates/main/bundle-20261026.1815.zip",
-  "sha256": "8bb65edaac9775990e97f7a7f1116cae819b2d3135179fcbc9f53c5c35dd07ca",
-  "sig": "1+JAeKMEdf9bdqS7jelPOh4nAeVlxXrCP8nnyH4g3lSw4wM3qdIcXenziNPNMBfax0OxLZhek1Znjq/5z9dCjw==",
-  "notes": "באנר עדכון בדף הראשי"
+  "version": "20261028.1653",
+  "url": "https://raw.githubusercontent.com/kill92/budget-updates/main/bundle-20261028.1653.zip",
+  "sha256": "5d485fa0c1740827e439cf37713971c0f4f3e2e00f3a83ca3dbf09a399761169",
+  "sig": "YsBb9rSA9GgyktwOBdiDdQwlku/NaN2WZFlCaa+M56OpjMufVt3t201D63VEYX+m76p9L1ALGXhl0Xp0KVfaPQ==",
+  "notes": "חסכונות, תקציב לפי קטגוריה, מחיקת קטגוריות, תיקון התחברות"
 }
