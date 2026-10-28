@@ -1,7 +1,7 @@
 {
-  "version": "20261028.1821",
-  "url": "https://raw.githubusercontent.com/kill92/budget-updates/main/bundle-20261028.1821.zip",
-  "sha256": "690456b1d946c793d6090a3e8b270d20fc76d9038454e429bc268e6d71658fe0",
-  "sig": "fWrmvI5EFrgOb/6HAW7vsd0JlYMFhduXtTKkgI4SjhUl27YTqMQGnNQKEiVAA8tqtKPEI8mhAzwsHW5DnnX67A==",
-  "notes": "גיבוי יומי ושחזור לפי תאריך, כרטיסי אשראי"
+  "version": "20261028.1830",
+  "url": "https://raw.githubusercontent.com/kill92/budget-updates/main/bundle-20261028.1830.zip",
+  "sha256": "e67e412b1d32e9594a951dd603c647622572071f4a0d03ac88ccce9fd32595c5",
+  "sig": "aMtdL66ZufhSq0XA9LvEs4g6U56uOZ6/5VaLboWbvcEKG1bJvwmIJ/VIp9gjHX4sIqsnPZT+wybs38QvB99iOQ==",
+  "notes": "חלון התחברות לגוגל כשההרשאה פגה"
 }
