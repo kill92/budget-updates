@@ -1,7 +1,7 @@
 {
-  "version": "20261028.1950",
-  "url": "https://raw.githubusercontent.com/kill92/budget-updates/main/bundle-20261028.1950.zip",
-  "sha256": "7c8150736fa82a3a3ad7089d0d1c33f72ae02bc1ca573f2690808d9722c66f01",
-  "sig": "dO76BUG0mjPkehisXEPFih/osnNDX4USVMBJzTIWJIxX3jSoR5hS/1ETrPnXGhI8/f+hs/QnseuMXvaBlR+BBA==",
-  "notes": "חלון התחברות לגוגל כשההרשאה פגה"
+  "version": "20261029.0610",
+  "url": "https://raw.githubusercontent.com/kill92/budget-updates/main/bundle-20261029.0610.zip",
+  "sha256": "c6a909288739f83616c4d3220601531ab4ae5a18d156c2b7e96c02192f54eeac",
+  "sig": "bGpeaIiaSl44kdjxPQALKi+BEq6NssHuEUK0/lF0Ak54DxTJHQVSg79gMHNekdPgiM+iPDF6Y123TBJoTZF2Lg==",
+  "notes": "הוספת Copyright בתחתית"
 }
