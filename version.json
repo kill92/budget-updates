@@ -1,7 +1,7 @@
 {
-  "version": "20261029.0610",
-  "url": "https://raw.githubusercontent.com/kill92/budget-updates/main/bundle-20261029.0610.zip",
-  "sha256": "c6a909288739f83616c4d3220601531ab4ae5a18d156c2b7e96c02192f54eeac",
-  "sig": "bGpeaIiaSl44kdjxPQALKi+BEq6NssHuEUK0/lF0Ak54DxTJHQVSg79gMHNekdPgiM+iPDF6Y123TBJoTZF2Lg==",
-  "notes": "הוספת Copyright בתחתית"
+  "version": "20261101.2237",
+  "url": "https://raw.githubusercontent.com/kill92/budget-updates/main/bundle-20261101.2237.zip",
+  "sha256": "1df9bf0f7a4b3bc2c70a08c2608fe7cbc8de035b6dc5b4c12b602f6246b592c9",
+  "sig": "A6Xt3M2tVar7Qn9W55uwsR4gqTO8QfV5WutmR69RvOZdVr8z9IpfKvLahb9C45Ql4Fu2Ugd4sQ2JTXue48t1YA==",
+  "notes": "חיבור גוגל שקט, הודעת עדכון בראש המסך, עיצוב"
 }
