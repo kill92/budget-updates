@@ -1,7 +1,7 @@
 {
-  "version": "20261103.1318",
-  "url": "https://raw.githubusercontent.com/kill92/budget-updates/main/bundle-20261103.1318.zip",
-  "sha256": "5dbfe4f5bc707ae08d381138b86db59eb1c885e07aa0661e260b484ac719efae",
-  "sig": "OqwXfaSZArepdOLspRDRAplDNOwN0C9JlmNRn4UFtf0na1XwiNy1WntqDYKBO+Mo8tGUfEgGuNCC4X1WEsmCFA==",
-  "notes": "ייבוא פירוט אשראי, יום חיוב אוטומטי"
+  "version": "20261103.1333",
+  "url": "https://raw.githubusercontent.com/kill92/budget-updates/main/bundle-20261103.1333.zip",
+  "sha256": "582a1aab19021c5b9154110b40f9dfbb256a60071f91a2ebc93c663bdb9df7c9",
+  "sig": "Hpe66/MBsRz/hIzIB2x8PyCnpfxFCRnb1KJoxd7rUnJClFZA4xtwODwe2OA76dXXqCkOMokz6XfK2v3F/8GOpg==",
+  "notes": "ייבוא אשראי: יום חיוב, קטגוריה חדשה, שינוי קטגוריה"
 }
