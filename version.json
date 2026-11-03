@@ -1,7 +1,7 @@
 {
-  "version": "20261103.1333",
-  "url": "https://raw.githubusercontent.com/kill92/budget-updates/main/bundle-20261103.1333.zip",
-  "sha256": "582a1aab19021c5b9154110b40f9dfbb256a60071f91a2ebc93c663bdb9df7c9",
-  "sig": "Hpe66/MBsRz/hIzIB2x8PyCnpfxFCRnb1KJoxd7rUnJClFZA4xtwODwe2OA76dXXqCkOMokz6XfK2v3F/8GOpg==",
-  "notes": "ייבוא אשראי: יום חיוב, קטגוריה חדשה, שינוי קטגוריה"
+  "version": "20261103.1357",
+  "url": "https://raw.githubusercontent.com/kill92/budget-updates/main/bundle-20261103.1357.zip",
+  "sha256": "a1c28e43c3a80a2aad0f358b61648017dfc5163952b4b632bc947f98f2edb84c",
+  "sig": "rf4IqOGTmLCXzZJ3iVU/CFytqG6o9L2WGgTnxBPVzOR3BSfQjRn7I2W4NTJbZxzNalIkFG6E+SGTOpoGuyIHoQ==",
+  "notes": "theme and card import"
 }
