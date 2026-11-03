@@ -1,7 +1,7 @@
 {
-  "version": "20261101.2237",
-  "url": "https://raw.githubusercontent.com/kill92/budget-updates/main/bundle-20261101.2237.zip",
-  "sha256": "1df9bf0f7a4b3bc2c70a08c2608fe7cbc8de035b6dc5b4c12b602f6246b592c9",
-  "sig": "A6Xt3M2tVar7Qn9W55uwsR4gqTO8QfV5WutmR69RvOZdVr8z9IpfKvLahb9C45Ql4Fu2Ugd4sQ2JTXue48t1YA==",
-  "notes": "חיבור גוגל שקט, הודעת עדכון בראש המסך, עיצוב"
+  "version": "20261102.1646",
+  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261102.1646.zip",
+  "sha256": "2cf705ba52e84c8533bf64d3838d9a16cc85cdb8bda4025272b6c1573e01f94a",
+  "sig": "zDS9Uzmgr51UNF1k95rQntpeulCR5tWbU0wVyqmqFC4pd22R+4yQxrMtKrhfAAJeDrlyck0szpu/ZSS/gVp5xg==",
+  "notes": "v1.3.2: תיקוני הדרכה"
 }
