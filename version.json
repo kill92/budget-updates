@@ -1,7 +1,7 @@
 {
-  "version": "20261102.1646",
-  "url": "https://raw.githubusercontent.com/kill92/Our-Way-Travel-App/main/bundle-20261102.1646.zip",
-  "sha256": "2cf705ba52e84c8533bf64d3838d9a16cc85cdb8bda4025272b6c1573e01f94a",
-  "sig": "zDS9Uzmgr51UNF1k95rQntpeulCR5tWbU0wVyqmqFC4pd22R+4yQxrMtKrhfAAJeDrlyck0szpu/ZSS/gVp5xg==",
-  "notes": "v1.3.2: תיקוני הדרכה"
+  "version": "20261103.1318",
+  "url": "https://raw.githubusercontent.com/kill92/budget-updates/main/bundle-20261103.1318.zip",
+  "sha256": "5dbfe4f5bc707ae08d381138b86db59eb1c885e07aa0661e260b484ac719efae",
+  "sig": "OqwXfaSZArepdOLspRDRAplDNOwN0C9JlmNRn4UFtf0na1XwiNy1WntqDYKBO+Mo8tGUfEgGuNCC4X1WEsmCFA==",
+  "notes": "ייבוא פירוט אשראי, יום חיוב אוטומטי"
 }
