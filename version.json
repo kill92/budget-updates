@@ -1,7 +1,7 @@
 {
-  "version": "20261110.1728",
-  "url": "https://raw.githubusercontent.com/kill92/budget-updates/main/bundle-20261110.1728.zip",
-  "sha256": "2a2776a542ef3f101f67e43ed99bf83ff3d795b3285619a3cc7c17c25e45ab14",
-  "sig": "za7wuYkNN8vgAE9zRjQcUUYbnpJJMoCuWjQ3HkDm3375PArXTTsV+G9XH9bwHPfsyE/ZUm4Q0WOBCDU7sOb4DQ==",
-  "notes": "עדכון"
+  "version": "20261122.2242",
+  "url": "https://raw.githubusercontent.com/kill92/budget-updates/main/bundle-20261122.2242.zip",
+  "sha256": "dd08e3bd2cc7d8efd60b3a0933c43c6a8cb5ea1890352eea3aa950bef4575bdd",
+  "sig": "I9af2ZlYAZxv+bI2qNGRsKRRYfZQCFFDGAnp1c28e212E3ncs3rfWxrEyN+GOA8EQFBJ/a1KjAXnAGrta15XmQ==",
+  "notes": "ייבוא נתוני חיובי אשראי מקבצים שמשך תוסף האינטרנט"
 }
